@@ -1,5 +1,6 @@
 <?php
-
+require "vendor/autoload.php";
+use Abraham\TwitterOAuth\TwitterOAuth;
 	//
 	// AUTO KEYWORD-BASED FOLLOWER CURATION BOT (by @levelsio)
 	//

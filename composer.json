@@ -1,14 +1,5 @@
 {
-  "name": "vendor_name/twitterGate",
-  "description": "description",
-  "minimum-stability": "stable",
-  "license": "proprietary",
-  "authors": [
-    {
-      "name": "luisjuarez",
-      "email": "email@example.com"
+    "require": {
+        "abraham/twitteroauth": "^2.0"
     }
-  ],
-  "require": {
-  }
 }
